@@ -1,4 +1,4 @@
-# Machine Learning Portfolio: Weather Forecasting
+# Comparative Analysis of Machine Learning Algorithms using Weather Forecasting
 
 ## Project Overview
 This project explores various machine learning algorithms for predicting temperature and weather patterns. The primary goal is to compare the performance of different supervised learning models in forecasting weather conditions.
@@ -15,6 +15,7 @@ This project explores various machine learning algorithms for predicting tempera
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
 - Adjusted R-squared
+- Mean Absolute Percentage Error (MAPE)
 
 ### Datasets:
 The datasets used in this project were sourced from Kaggle and contain historical weather data from multiple Indian cities and Szeged, Hungary.
