@@ -21,6 +21,7 @@ This project explores various machine learning algorithms for predicting tempera
 The datasets used in this project were sourced from Kaggle and contain historical weather data from multiple Indian cities and Szeged, Hungary.
 
 [Kaggle Dataset - Szeged Weather](https://www.kaggle.com/datasets/budincsevity/szegedweather)
+
 [Kaggle Dataset - Indian Cities Weather](https://www.kaggle.com/datasets/hiteshsoneji/historical-weather-datafor-Indiancities)
 
 ## Workflow
